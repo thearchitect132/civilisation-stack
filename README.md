@@ -26,6 +26,7 @@ To do this, the stack provides:
 
 ## Repository Structure
 
+```
 civilisation-stack/
 │
 ├── README.md
@@ -55,7 +56,7 @@ civilisation-stack/
 └── assets/
 ├── images/
 └── diagrams/
-
+```
 
 Each directory corresponds to a layer of the civilisation‑stack development process.
 
